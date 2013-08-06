@@ -1,0 +1,51 @@
+{
+  "name": "auto",
+  "version": "0.0.1",
+  "description": "Asynchronous task runner for Node.js",
+  "main": "index",
+  "keywords" : [
+    "express",
+    "async",
+    "auto",
+    "task"
+  ],
+  "copyright" : "Copyright (c) 2013 Usability Dynamics, Inc.",
+  "engines": [
+    "node >=0.8.0",
+    "npm >=1.0.0"
+  ],
+  "scripts": {
+    "test": "make test"
+  },
+  "author": {
+    "name": "Usability Dynamics",
+    "email": "info@usabilitydynamics.com",
+    "url": "http://usabilitydynamics.com"
+  },
+  "contributors": [
+    {
+      "name": "Andy Potanin",
+      "email": "andy.potanin@usabilitydynamics.com",
+      "url": "http://usabilitydynamics.com"
+    },
+    {
+      "name": "Ivan McCarthy",
+      "email": "ivan.mccarthy@usabilitydynamics.com",
+      "url": "http://usabilitydynamics.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UsabilityDynamics/auto"
+  },
+  "dependencies": {
+    "object-emitter": "*",
+    "extend": "*",
+    "async": "*"
+  },
+  "devDependencies": {
+    "Faker": "*",
+    "express": "*",
+    "colors": "*"
+  }
+}

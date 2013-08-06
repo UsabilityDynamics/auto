@@ -1,0 +1,103 @@
+{
+    "project": {
+        "name": "Auto Module",
+        "version": "0.0.1",
+        "url": "https://github.com/UsabilityDynamics/auto",
+        "logo": "http://a3d72a45d111006ec192-ec5b80a12b0b09b4d52373336afb4254.r80.cf1.rackcdn.com/usability-dynamics.png",
+        "description": "Asynchronous task runner for Node.js"
+    },
+    "files": {
+        "lib/auto.js": {
+            "name": "lib/auto.js",
+            "modules": {
+                "Auto": 1
+            },
+            "classes": {},
+            "fors": {},
+            "namespaces": {}
+        }
+    },
+    "modules": {
+        "Auto": {
+            "name": "Auto",
+            "submodules": {},
+            "classes": {},
+            "fors": {},
+            "namespaces": {},
+            "tag": "module",
+            "file": "lib/auto.js",
+            "line": 1,
+            "description": "Auto Module\n\n-",
+            "is_constructor": 1,
+            "author": "potanin@UD",
+            "date": "8/5/13",
+            "type": "{Object}"
+        }
+    },
+    "classes": {},
+    "classitems": [
+        {
+            "file": "lib/auto.js",
+            "line": 174,
+            "description": "Remove Listener from Queue",
+            "itemtype": "method",
+            "name": "removeListener",
+            "params": [
+                {
+                    "name": "fn",
+                    "description": ""
+                },
+                {
+                    "name": "k",
+                    "description": ""
+                }
+            ],
+            "class": "",
+            "module": "Auto"
+        },
+        {
+            "file": "lib/auto.js",
+            "line": 192,
+            "description": "Add Listener to Queue",
+            "itemtype": "method",
+            "name": "addListener",
+            "params": [
+                {
+                    "name": "fn",
+                    "description": ""
+                },
+                {
+                    "name": "k",
+                    "description": ""
+                }
+            ],
+            "class": "",
+            "module": "Auto"
+        },
+        {
+            "file": "lib/auto.js",
+            "line": 206,
+            "description": "Single Step Complete",
+            "itemtype": "method",
+            "name": "stepComplete",
+            "params": [
+                {
+                    "name": "k",
+                    "description": ""
+                },
+                {
+                    "name": "args",
+                    "description": ""
+                }
+            ],
+            "class": "",
+            "module": "Auto"
+        }
+    ],
+    "warnings": [
+        {
+            "message": "unknown tag: date",
+            "line": " lib/auto.js:1"
+        }
+    ]
+}
