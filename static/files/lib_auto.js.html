@@ -124,34 +124,35 @@ function auto( tasks, callback, settings ) {
   var self        = this;
 
   // Set instance properties
-  this.id         = Math.random().toString( 36 ).substring( 7 );
-  this.tasks      = tasks;
-  this.callback   = arguments[1] instanceof Function ? arguments[1] : function defaultCallback() {};
-  this.settings   = auto.extend( {}, auto.defaults, arguments.length === 3 ? settings : &#x27;function&#x27; !== typeof callback ? callback : {} );
-  this.response   = {};
-  this.listeners  = [];
-  this._meta      = { started: new Date().getTime(), timeout: new Date().getTime() + this.settings.timeout };
-  this.error      = null;
-  this.keys       = Object.keys( this.tasks );
+  self.id         = Math.random().toString( 36 ).substring( 7 );
+  self.tasks      = tasks;
+  self.callback   = arguments[1] instanceof Function ? arguments[1] : function defaultCallback() {};
+  self.settings   = auto.extend( {}, auto.defaults, arguments.length === 3 ? settings : &#x27;function&#x27; !== typeof callback ? callback : {} );
+  self.response   = {};
+  self.listeners  = [];
+  self._meta      = { started: new Date().getTime(), timeout: new Date().getTime() + self.settings.timeout };
+  self.error      = null;
+  self.keys       = Object.keys( self.tasks );
 
   // Extend this with Event Emitter
-  auto.emitter.mixin( this );
+  auto.emitter.mixin( self );
 
   // Ensure there are tasks
-  if( !this.keys.length ) {
-    return callback( null );
+  if( !self.keys.length ) {
+    process.nextTick( function() { self.emit( &#x27;complete&#x27;, null, {} ); });
+    return self.callback( null );
   }
 
   // Add to running queue
-  auto.active[ this.id ] = this;
+  auto.active[ self.id ] = self;
 
   // Add final listener
-  self.addListener( this.onComplete );
+  self.addListener( self.onComplete );
 
   // Iterate through keys
-  self.each( this.keys, this.taskIterator );
+  self.each( self.keys, self.taskIterator );
 
-  return this;
+  return self;
 
 }
 

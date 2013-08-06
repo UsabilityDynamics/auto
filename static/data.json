@@ -38,14 +38,14 @@
     "classitems": [
         {
             "file": "lib/auto.js",
-            "line": 70,
+            "line": 71,
             "description": "Instance Properties.",
             "class": "",
             "module": "auto"
         },
         {
             "file": "lib/auto.js",
-            "line": 91,
+            "line": 92,
             "description": "Task Callback",
             "todo": [
                 "Migrate into prototype."
@@ -61,7 +61,7 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 140,
+            "line": 141,
             "description": "Ready to Process a Step",
             "todo": [
                 "Migrate into prototype."
@@ -75,7 +75,7 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 215,
+            "line": 216,
             "description": "Remove Listener from Queue",
             "itemtype": "method",
             "name": "removeListener",
@@ -94,7 +94,7 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 235,
+            "line": 236,
             "description": "Run Method on next tick",
             "itemtype": "method",
             "name": "setImmediate",
@@ -113,7 +113,7 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 256,
+            "line": 257,
             "description": "Array Iterator",
             "itemtype": "method",
             "name": "each",
@@ -136,7 +136,7 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 273,
+            "line": 274,
             "description": "Array Reduce",
             "itemtype": "method",
             "name": "reduce",
@@ -163,7 +163,7 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 299,
+            "line": 300,
             "description": "Add Listener to Queue in context",
             "itemtype": "method",
             "name": "addListener",
@@ -182,7 +182,7 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 315,
+            "line": 316,
             "description": "Single Step Complete",
             "itemtype": "method",
             "name": "stepComplete",
@@ -201,14 +201,14 @@
         },
         {
             "file": "lib/auto.js",
-            "line": 337,
+            "line": 338,
             "description": "Constructor Properties",
             "class": "",
             "module": "auto"
         },
         {
             "file": "lib/auto.js",
-            "line": 343,
+            "line": 344,
             "params": [
                 {
                     "name": "tasks",
@@ -238,43 +238,43 @@
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " lib/auto.js:140"
+            "line": " lib/auto.js:141"
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " lib/auto.js:235"
+            "line": " lib/auto.js:236"
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " lib/auto.js:256"
+            "line": " lib/auto.js:257"
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " lib/auto.js:273"
+            "line": " lib/auto.js:274"
         },
         {
             "message": "replacing incorrect tag: returns with return",
-            "line": " lib/auto.js:343"
+            "line": " lib/auto.js:344"
         },
         {
             "message": "Missing item type\nInstance Properties.",
-            "line": " lib/auto.js:70"
+            "line": " lib/auto.js:71"
         },
         {
             "message": "Missing item type\nTask Callback",
-            "line": " lib/auto.js:91"
+            "line": " lib/auto.js:92"
         },
         {
             "message": "Missing item type\nReady to Process a Step",
-            "line": " lib/auto.js:140"
+            "line": " lib/auto.js:141"
         },
         {
             "message": "Missing item type\nConstructor Properties",
-            "line": " lib/auto.js:337"
+            "line": " lib/auto.js:338"
         },
         {
             "message": "Missing item type",
-            "line": " lib/auto.js:343"
+            "line": " lib/auto.js:344"
         }
     ]
 }
