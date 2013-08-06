@@ -4,6 +4,7 @@ Beta version - use at own risk.
 ## Basic Usage
 Basic usage example.
 
+```javascript
     auto({
 
       // Get data, simulation as asynchornous operation
@@ -35,7 +36,7 @@ Basic usage example.
       }]
 
     }).once( 'complete', console.log )
-
+```
 
 ## Task Runner Events
 Advanced usage example.
