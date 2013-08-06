@@ -1,6 +1,6 @@
 {
   "name": "auto",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Asynchronous task runner for Node.js",
   "main": "index",
   "keywords" : [
@@ -43,6 +43,7 @@
     "extend": "1.1.3"
   },
   "devDependencies": {
+    "request": "*",
     "express": "*",
     "colors": "*"
   }

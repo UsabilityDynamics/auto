@@ -6,7 +6,6 @@
  */
 
 var auto          = require( '../' );
-var colors        = require( 'colors' );
 
 // Example mocking https://github.com/caolan/async#auto
 module.exports = auto({
@@ -26,20 +25,17 @@ module.exports = auto({
 
   // Create folder, which is an asynchronous operation
   make_folder: [ 'get_data', function make_folder( next, report ) {
-    setTimeout( function() { next( null, 'folder created' ); }, 100 )
+    setTimeout( function() { next( null, 'folder created' ); }, 10 )
   }],
 
   // Write file once we have the data and folder is created
   write_file: ['get_data', 'make_folder', function write_file( next, report ) {
-    setTimeout( function() { next( null, 'folder created' ); }, 200 )
+    setTimeout( function() { next( null, 'folder created' ); }, 20 )
   }],
 
   // Email Link once file is written
-  email_link: ['write_file', function email_link( next, report ) {
+  email_link: [ 'write_file', function email_link( next, report ) {
     next( null, 'email sent' );
   }]
 
-})
-  .once( 'complete', function error( error, report ) {
-    console.log( 'Done!', report );
-  });
+});

@@ -2,13 +2,13 @@ YUI.add("yuidoc-meta", function(Y) {
    Y.YUIDoc = { meta: {
     "classes": [],
     "modules": [
-        "Auto"
+        "auto"
     ],
     "allModules": [
         {
-            "displayName": "Auto",
-            "name": "Auto",
-            "description": "Auto Module\n\n-"
+            "displayName": "auto",
+            "name": "auto",
+            "description": "auto Module\n\n-"
         }
     ]
 } };

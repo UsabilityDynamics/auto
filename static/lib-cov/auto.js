@@ -13,7 +13,7 @@ if (! _$jscoverage['auto.js']) {
   _$jscoverage['auto.js'][29] = 0;
   _$jscoverage['auto.js'][30] = 0;
   _$jscoverage['auto.js'][36] = 0;
-  _$jscoverage['auto.js'][37] = 0;
+  _$jscoverage['auto.js'][39] = 0;
   _$jscoverage['auto.js'][40] = 0;
   _$jscoverage['auto.js'][41] = 0;
   _$jscoverage['auto.js'][42] = 0;
@@ -21,67 +21,84 @@ if (! _$jscoverage['auto.js']) {
   _$jscoverage['auto.js'][44] = 0;
   _$jscoverage['auto.js'][45] = 0;
   _$jscoverage['auto.js'][46] = 0;
-  _$jscoverage['auto.js'][49] = 0;
-  _$jscoverage['auto.js'][52] = 0;
+  _$jscoverage['auto.js'][47] = 0;
+  _$jscoverage['auto.js'][50] = 0;
   _$jscoverage['auto.js'][53] = 0;
-  _$jscoverage['auto.js'][56] = 0;
-  _$jscoverage['auto.js'][59] = 0;
-  _$jscoverage['auto.js'][60] = 0;
+  _$jscoverage['auto.js'][54] = 0;
+  _$jscoverage['auto.js'][58] = 0;
+  _$jscoverage['auto.js'][61] = 0;
   _$jscoverage['auto.js'][64] = 0;
-  _$jscoverage['auto.js'][65] = 0;
-  _$jscoverage['auto.js'][68] = 0;
+  _$jscoverage['auto.js'][66] = 0;
   _$jscoverage['auto.js'][74] = 0;
   _$jscoverage['auto.js'][78] = 0;
-  _$jscoverage['auto.js'][81] = 0;
-  _$jscoverage['auto.js'][84] = 0;
-  _$jscoverage['auto.js'][86] = 0;
-  _$jscoverage['auto.js'][88] = 0;
-  _$jscoverage['auto.js'][89] = 0;
-  _$jscoverage['auto.js'][92] = 0;
-  _$jscoverage['auto.js'][93] = 0;
-  _$jscoverage['auto.js'][95] = 0;
-  _$jscoverage['auto.js'][96] = 0;
-  _$jscoverage['auto.js'][99] = 0;
+  _$jscoverage['auto.js'][79] = 0;
+  _$jscoverage['auto.js'][80] = 0;
+  _$jscoverage['auto.js'][83] = 0;
+  _$jscoverage['auto.js'][97] = 0;
+  _$jscoverage['auto.js'][100] = 0;
   _$jscoverage['auto.js'][102] = 0;
   _$jscoverage['auto.js'][103] = 0;
   _$jscoverage['auto.js'][106] = 0;
+  _$jscoverage['auto.js'][107] = 0;
   _$jscoverage['auto.js'][109] = 0;
   _$jscoverage['auto.js'][110] = 0;
+  _$jscoverage['auto.js'][113] = 0;
   _$jscoverage['auto.js'][116] = 0;
-  _$jscoverage['auto.js'][119] = 0;
-  _$jscoverage['auto.js'][125] = 0;
-  _$jscoverage['auto.js'][128] = 0;
+  _$jscoverage['auto.js'][117] = 0;
+  _$jscoverage['auto.js'][120] = 0;
+  _$jscoverage['auto.js'][123] = 0;
+  _$jscoverage['auto.js'][126] = 0;
   _$jscoverage['auto.js'][131] = 0;
-  _$jscoverage['auto.js'][132] = 0;
-  _$jscoverage['auto.js'][136] = 0;
+  _$jscoverage['auto.js'][134] = 0;
   _$jscoverage['auto.js'][138] = 0;
-  _$jscoverage['auto.js'][142] = 0;
-  _$jscoverage['auto.js'][145] = 0;
-  _$jscoverage['auto.js'][152] = 0;
+  _$jscoverage['auto.js'][146] = 0;
+  _$jscoverage['auto.js'][149] = 0;
+  _$jscoverage['auto.js'][150] = 0;
   _$jscoverage['auto.js'][154] = 0;
-  _$jscoverage['auto.js'][155] = 0;
-  _$jscoverage['auto.js'][157] = 0;
-  _$jscoverage['auto.js'][164] = 0;
+  _$jscoverage['auto.js'][156] = 0;
+  _$jscoverage['auto.js'][158] = 0;
+  _$jscoverage['auto.js'][161] = 0;
+  _$jscoverage['auto.js'][163] = 0;
+  _$jscoverage['auto.js'][168] = 0;
+  _$jscoverage['auto.js'][170] = 0;
+  _$jscoverage['auto.js'][171] = 0;
   _$jscoverage['auto.js'][172] = 0;
-  _$jscoverage['auto.js'][184] = 0;
-  _$jscoverage['auto.js'][185] = 0;
+  _$jscoverage['auto.js'][187] = 0;
+  _$jscoverage['auto.js'][188] = 0;
+  _$jscoverage['auto.js'][192] = 0;
+  _$jscoverage['auto.js'][193] = 0;
+  _$jscoverage['auto.js'][197] = 0;
+  _$jscoverage['auto.js'][198] = 0;
   _$jscoverage['auto.js'][201] = 0;
-  _$jscoverage['auto.js'][217] = 0;
-  _$jscoverage['auto.js'][218] = 0;
+  _$jscoverage['auto.js'][204] = 0;
+  _$jscoverage['auto.js'][207] = 0;
   _$jscoverage['auto.js'][225] = 0;
-  _$jscoverage['auto.js'][241] = 0;
-  _$jscoverage['auto.js'][242] = 0;
+  _$jscoverage['auto.js'][226] = 0;
+  _$jscoverage['auto.js'][244] = 0;
   _$jscoverage['auto.js'][245] = 0;
-  _$jscoverage['auto.js'][252] = 0;
-  _$jscoverage['auto.js'][253] = 0;
-  _$jscoverage['auto.js'][259] = 0;
-  _$jscoverage['auto.js'][260] = 0;
-  _$jscoverage['auto.js'][261] = 0;
+  _$jscoverage['auto.js'][248] = 0;
+  _$jscoverage['auto.js'][265] = 0;
+  _$jscoverage['auto.js'][266] = 0;
+  _$jscoverage['auto.js'][284] = 0;
+  _$jscoverage['auto.js'][285] = 0;
+  _$jscoverage['auto.js'][288] = 0;
+  _$jscoverage['auto.js'][289] = 0;
+  _$jscoverage['auto.js'][292] = 0;
+  _$jscoverage['auto.js'][308] = 0;
+  _$jscoverage['auto.js'][326] = 0;
+  _$jscoverage['auto.js'][327] = 0;
+  _$jscoverage['auto.js'][341] = 0;
+  _$jscoverage['auto.js'][352] = 0;
+  _$jscoverage['auto.js'][354] = 0;
+  _$jscoverage['auto.js'][356] = 0;
+  _$jscoverage['auto.js'][357] = 0;
+  _$jscoverage['auto.js'][360] = 0;
+  _$jscoverage['auto.js'][361] = 0;
 }
 _$jscoverage['auto.js'][12]++;
-function Auto(tasks, callback, settings) {
+function auto(tasks, callback, settings) {
   _$jscoverage['auto.js'][15]++;
-  if (! (this instanceof Auto)) {
+  if (! (this instanceof auto)) {
     _$jscoverage['auto.js'][17]++;
     if (arguments.length === 0) {
       _$jscoverage['auto.js'][18]++;
@@ -90,200 +107,232 @@ function Auto(tasks, callback, settings) {
     _$jscoverage['auto.js'][21]++;
     if (arguments.length === 1) {
       _$jscoverage['auto.js'][22]++;
-      return new Auto(tasks);
+      return new auto(tasks);
     }
     _$jscoverage['auto.js'][25]++;
     if (arguments.length === 2) {
       _$jscoverage['auto.js'][26]++;
-      return new Auto(tasks, callback);
+      return new auto(tasks, callback);
     }
     _$jscoverage['auto.js'][29]++;
     if (arguments.length === 3) {
       _$jscoverage['auto.js'][30]++;
-      return new Auto(tasks, callback, settings);
+      return new auto(tasks, callback, settings);
     }
   }
   _$jscoverage['auto.js'][36]++;
   var self = this;
-  _$jscoverage['auto.js'][37]++;
-  var keys = Object.keys(tasks);
-  _$jscoverage['auto.js'][40]++;
+  _$jscoverage['auto.js'][39]++;
   this.id = Math.random().toString(36).substring(7);
-  _$jscoverage['auto.js'][41]++;
-  this.error = null;
-  _$jscoverage['auto.js'][42]++;
+  _$jscoverage['auto.js'][40]++;
   this.tasks = tasks;
-  _$jscoverage['auto.js'][43]++;
+  _$jscoverage['auto.js'][41]++;
   this.callback = arguments[1] instanceof Function? arguments[1]: (function defaultCallback() {
 });
-  _$jscoverage['auto.js'][44]++;
-  this.settings = Auto.extend({}, Auto.defaults, arguments.length === 3? settings: "function" !== typeof callback? callback: {});
-  _$jscoverage['auto.js'][45]++;
+  _$jscoverage['auto.js'][42]++;
+  this.settings = auto.extend({}, auto.defaults, arguments.length === 3? settings: "function" !== typeof callback? callback: {});
+  _$jscoverage['auto.js'][43]++;
   this.response = {};
-  _$jscoverage['auto.js'][46]++;
+  _$jscoverage['auto.js'][44]++;
   this.listeners = [];
-  _$jscoverage['auto.js'][49]++;
-  Auto.emitter.mixin(this);
-  _$jscoverage['auto.js'][52]++;
-  if (! keys.length) {
-    _$jscoverage['auto.js'][53]++;
+  _$jscoverage['auto.js'][45]++;
+  this._meta = {started: new Date().getTime(), timeout: new Date().getTime() + this.settings.timeout};
+  _$jscoverage['auto.js'][46]++;
+  this.error = null;
+  _$jscoverage['auto.js'][47]++;
+  this.keys = Object.keys(this.tasks);
+  _$jscoverage['auto.js'][50]++;
+  auto.emitter.mixin(this);
+  _$jscoverage['auto.js'][53]++;
+  if (! this.keys.length) {
+    _$jscoverage['auto.js'][54]++;
     return callback(null);
   }
-  _$jscoverage['auto.js'][56]++;
-  self.addListener((function () {
-  _$jscoverage['auto.js'][56]++;
-  if (Object.keys(self.response).length === keys.length) {
-    _$jscoverage['auto.js'][59]++;
-    if (self.callback.name === "Placeholder") {
-      _$jscoverage['auto.js'][60]++;
-      return;
-    }
-    _$jscoverage['auto.js'][64]++;
-    self.emit("complete", null, self.response);
-    _$jscoverage['auto.js'][65]++;
-    self.emit("success", self.response);
-    _$jscoverage['auto.js'][68]++;
-    self.callback(null, self.response);
-    _$jscoverage['auto.js'][74]++;
-    self.callback = (function Placeholder() {
-});
-  }
-}));
+  _$jscoverage['auto.js'][58]++;
+  auto.active[this.id] = this;
+  _$jscoverage['auto.js'][61]++;
+  self.addListener(this.onComplete);
+  _$jscoverage['auto.js'][64]++;
+  self.each(this.keys, this.taskIterator);
+  _$jscoverage['auto.js'][66]++;
+  return this;
+}
+_$jscoverage['auto.js'][74]++;
+Object.defineProperties(auto.prototype, {taskIterator: {value: (function taskIterator(key) {
   _$jscoverage['auto.js'][78]++;
-  Auto.each(keys, (function (key) {
-  _$jscoverage['auto.js'][81]++;
-  var task = (tasks[key] instanceof Function)? [tasks[key]]: tasks[key];
-  _$jscoverage['auto.js'][84]++;
-  var taskCallback = (function taskCallback(error) {
-  _$jscoverage['auto.js'][86]++;
-  var args = Array.prototype.slice.call(arguments, 1);
-  _$jscoverage['auto.js'][88]++;
-  if (args.length <= 1) {
-    _$jscoverage['auto.js'][89]++;
-    args = args[0];
-  }
-  _$jscoverage['auto.js'][92]++;
-  if (error && error instanceof Error) {
-    _$jscoverage['auto.js'][93]++;
-    var safeResults = {};
-    _$jscoverage['auto.js'][95]++;
-    Auto.each(Object.keys(self.response), (function (rkey) {
-  _$jscoverage['auto.js'][96]++;
+  var self = this;
+  _$jscoverage['auto.js'][79]++;
+  var task = this.tasks[key] instanceof Function? [this.tasks[key]]: this.tasks[key];
+  _$jscoverage['auto.js'][80]++;
+  var requires = task.slice(0, Math.abs(task.length - 1)) || [];
+  _$jscoverage['auto.js'][83]++;
+  var context = {id: self.id, task: key, requires: requires, response: self.response, tasks: self.tasks};
+  _$jscoverage['auto.js'][97]++;
+  function taskCallback(error) {
+    _$jscoverage['auto.js'][100]++;
+    var args = Array.prototype.slice.call(arguments, 1);
+    _$jscoverage['auto.js'][102]++;
+    if (args.length <= 1) {
+      _$jscoverage['auto.js'][103]++;
+      args = args[0];
+    }
+    _$jscoverage['auto.js'][106]++;
+    if (error && error instanceof Error) {
+      _$jscoverage['auto.js'][107]++;
+      var safeResults = {};
+      _$jscoverage['auto.js'][109]++;
+      auto.each(Object.keys(self.response), (function (rkey) {
+  _$jscoverage['auto.js'][110]++;
   safeResults[rkey] = self.response[rkey];
 }));
-    _$jscoverage['auto.js'][99]++;
-    safeResults[key] = args;
-    _$jscoverage['auto.js'][102]++;
-    self.emit("error", error, safeResults);
-    _$jscoverage['auto.js'][103]++;
-    self.emit("complete", error, safeResults);
-    _$jscoverage['auto.js'][106]++;
-    self.callback(error, safeResults);
-    _$jscoverage['auto.js'][109]++;
-    callback = (function __fake_callback__() {
-  _$jscoverage['auto.js'][110]++;
-  self.emit("__fake_callback__");
+      _$jscoverage['auto.js'][113]++;
+      safeResults[key] = args;
+      _$jscoverage['auto.js'][116]++;
+      self.emit("error", error, safeResults);
+      _$jscoverage['auto.js'][117]++;
+      self.emit("complete", error, safeResults);
+      _$jscoverage['auto.js'][120]++;
+      delete auto.active[this.id];
+      _$jscoverage['auto.js'][123]++;
+      self.callback(error, safeResults);
+      _$jscoverage['auto.js'][126]++;
+      self.callback = (function __fake_callback__() {
 });
-  }
-  else {
-    _$jscoverage['auto.js'][116]++;
-    self.response[key] = args;
-    _$jscoverage['auto.js'][119]++;
-    Auto.setImmediate(self.stepComplete.bind(self), key, args);
-  }
-});
-  _$jscoverage['auto.js'][125]++;
-  var requires = task.slice(0, Math.abs(task.length - 1)) || [];
-  _$jscoverage['auto.js'][128]++;
-  var ready = (function ready() {
-  _$jscoverage['auto.js'][131]++;
-  var magic = Auto.reduce(requires, (function (a, x) {
-  _$jscoverage['auto.js'][132]++;
+    }
+    else {
+      _$jscoverage['auto.js'][131]++;
+      self.response[key] = args;
+      _$jscoverage['auto.js'][134]++;
+      self.setImmediate(self.stepComplete.bind(self), key, args);
+    }
+}
+  _$jscoverage['auto.js'][138]++;
+  ;
+  _$jscoverage['auto.js'][146]++;
+  function ready() {
+    _$jscoverage['auto.js'][149]++;
+    var magic = self.reduce(requires, (function (a, x) {
+  _$jscoverage['auto.js'][150]++;
   return (a && self.response.hasOwnProperty(x));
 }), true) && ! self.response.hasOwnProperty(key);
-  _$jscoverage['auto.js'][136]++;
-  self.emit("ready", key, magic);
-  _$jscoverage['auto.js'][138]++;
-  return magic;
-});
-  _$jscoverage['auto.js'][142]++;
+    _$jscoverage['auto.js'][154]++;
+    self.emit("ready", key, magic);
+    _$jscoverage['auto.js'][156]++;
+    return magic;
+}
+  _$jscoverage['auto.js'][158]++;
+  ;
+  _$jscoverage['auto.js'][161]++;
   if (ready()) {
-    _$jscoverage['auto.js'][145]++;
-    task[task.length - 1].bind({todo: true})(taskCallback, self.response, self);
+    _$jscoverage['auto.js'][163]++;
+    task[task.length - 1].bind(context)(taskCallback, self.response, self);
   }
   else {
-    _$jscoverage['auto.js'][152]++;
-    var listener = (function listener() {
-  _$jscoverage['auto.js'][154]++;
+    _$jscoverage['auto.js'][168]++;
+    self.addListener((function listener() {
+  _$jscoverage['auto.js'][170]++;
   if (ready()) {
-    _$jscoverage['auto.js'][155]++;
+    _$jscoverage['auto.js'][171]++;
     self.removeListener(listener, key);
-    _$jscoverage['auto.js'][157]++;
-    task[task.length - 1].bind({todo: true})(taskCallback, self.response);
+    _$jscoverage['auto.js'][172]++;
+    task[task.length - 1].bind(context)(taskCallback, self.response);
   }
+}), key);
+  }
+}), writable: false, enumerable: false, configurable: true}, onComplete: {value: (function onComplete() {
+  _$jscoverage['auto.js'][187]++;
+  if (Object.keys(this.response).length !== this.keys.length) {
+    _$jscoverage['auto.js'][188]++;
+    return;
+  }
+  _$jscoverage['auto.js'][192]++;
+  if (this.callback.name === "Placeholder") {
+    _$jscoverage['auto.js'][193]++;
+    return;
+  }
+  _$jscoverage['auto.js'][197]++;
+  this.emit("complete", null, this.response);
+  _$jscoverage['auto.js'][198]++;
+  this.emit("success", this.response);
+  _$jscoverage['auto.js'][201]++;
+  this.callback(null, this.response);
+  _$jscoverage['auto.js'][204]++;
+  delete auto.active[this.id];
+  _$jscoverage['auto.js'][207]++;
+  this.callback = (function Placeholder() {
 });
-    _$jscoverage['auto.js'][164]++;
-    self.addListener(listener, key);
-  }
-}));
-}
-_$jscoverage['auto.js'][172]++;
-Object.defineProperties(Auto.prototype, {removeListener: {value: (function removeListener(fn, k) {
-  _$jscoverage['auto.js'][184]++;
+}), writable: false, enumerable: false, configurable: true}, removeListener: {value: (function removeListener(fn, k) {
+  _$jscoverage['auto.js'][225]++;
   for (var i = 0; i < this.listeners.length; i += 1) {
-    _$jscoverage['auto.js'][185]++;
+    _$jscoverage['auto.js'][226]++;
     if (this.listeners[i] === fn) {
-      _$jscoverage['auto.js'][185]++;
+      _$jscoverage['auto.js'][226]++;
       this.listeners.splice(i, 1);
-      _$jscoverage['auto.js'][185]++;
+      _$jscoverage['auto.js'][226]++;
       return;
     }
 }
-}), enumerable: false}, addListener: {value: (function addListener(fn, k) {
-  _$jscoverage['auto.js'][201]++;
-  this.listeners.unshift(fn);
-}), enumerable: false}, stepComplete: {value: (function stepComplete(k, args) {
-  _$jscoverage['auto.js'][217]++;
-  Auto.each(this.listeners.slice(0), (function (fn) {
-  _$jscoverage['auto.js'][218]++;
-  fn();
-}));
-})}});
-_$jscoverage['auto.js'][225]++;
-Object.defineProperties(module.exports = Auto, {defaults: {value: {timeout: 5000}, enumerable: true, writable: true, configurable: false}, emitter: {value: require("object-emitter"), enumerable: false}, setImmediate: {value: (function setImmediate(fn) {
-  _$jscoverage['auto.js'][241]++;
+}), writable: false, enumerable: false, configurable: true}, setImmediate: {value: (function setImmediate(fn) {
+  _$jscoverage['auto.js'][244]++;
   if (process && process.nextTick) {
-    _$jscoverage['auto.js'][242]++;
+    _$jscoverage['auto.js'][245]++;
     return process.nextTick(fn);
   }
-  _$jscoverage['auto.js'][245]++;
+  _$jscoverage['auto.js'][248]++;
   setTimeout((function () {
-  _$jscoverage['auto.js'][245]++;
+  _$jscoverage['auto.js'][248]++;
   fn();
 }), 0);
-}), enumerable: false}, each: {value: (function each(arr, iterator) {
-  _$jscoverage['auto.js'][252]++;
+}), writable: false, enumerable: false, configurable: true}, each: {value: (function each(arr, iterator) {
+  _$jscoverage['auto.js'][265]++;
   if (arr.forEach) {
-    _$jscoverage['auto.js'][252]++;
-    return arr.forEach(iterator);
+    _$jscoverage['auto.js'][265]++;
+    return arr.forEach(iterator.bind(this));
   }
-  _$jscoverage['auto.js'][253]++;
+  _$jscoverage['auto.js'][266]++;
   for (var i = 0; i < arr.length; i += 1) {
-    _$jscoverage['auto.js'][253]++;
-    iterator(arr[i], i, arr);
+    _$jscoverage['auto.js'][266]++;
+    iterator.bind(this)(arr[i], i, arr);
 }
-}), writable: true}, reduce: {value: (function reduce(arr, iterator, memo) {
-  _$jscoverage['auto.js'][259]++;
+}), writable: false, enumerable: false, configurable: true}, reduce: {value: (function reduce(arr, iterator, memo) {
+  _$jscoverage['auto.js'][284]++;
   if (arr.reduce) {
-    _$jscoverage['auto.js'][259]++;
+    _$jscoverage['auto.js'][285]++;
     return arr.reduce(iterator, memo);
   }
-  _$jscoverage['auto.js'][260]++;
-  Auto.each(arr, (function (x, i, a) {
-  _$jscoverage['auto.js'][260]++;
+  _$jscoverage['auto.js'][288]++;
+  this.each(arr, (function (x, i, a) {
+  _$jscoverage['auto.js'][289]++;
   memo = iterator(memo, x, i, a);
 }));
-  _$jscoverage['auto.js'][261]++;
+  _$jscoverage['auto.js'][292]++;
   return memo;
-}), writable: true}, extend: {value: require("extend"), enumerable: false}, active: {value: {}, enumerable: true, writable: true, configurable: false}});
-_$jscoverage['auto.js'].source = ["/**"," * Auto Module"," *"," * -"," *"," * @module Auto"," * @constructor"," * @author potanin@UD"," * @date 8/5/13"," * @type {Object}"," */","function Auto( tasks, callback, settings ) {","","  // Ensure always using new instance of Auto","  if( !( this instanceof Auto ) ) {","","    if( arguments.length === 0 ) {","      return {};","    }","","    if( arguments.length === 1 ) {","      return new Auto( tasks );","    }","","    if( arguments.length === 2 ) {","      return new Auto( tasks, callback );","    }","","    if( arguments.length === 3 ) {","      return new Auto( tasks, callback, settings );","    }","","  }","","  // Set private properties","  var self      = this;","  var keys      = Object.keys( tasks );","","  // Set instance properties","  this.id          = Math.random().toString( 36 ).substring( 7 );","  this.error       = null;","  this.tasks       = tasks;","  this.callback    = arguments[1] instanceof Function ? arguments[1] : function defaultCallback() {};","  this.settings    = Auto.extend( {}, Auto.defaults, arguments.length === 3 ? settings : 'function' !== typeof callback ? callback : {} );","  this.response    = {};","  this.listeners   = [];","","  // Extend this with Event Emitter","  Auto.emitter.mixin( this );","","  // Ensure there are tasks","  if( !keys.length ) {","    return callback( null );","  }","","  self.addListener( function() { if( Object.keys( self.response ).length === keys.length ) {","","    // Will fire multiple times if not checked","    if( self.callback.name === 'Placeholder' ) {","      return;","    }","","    // All steps in task are complete","    self.emit( 'complete', null, self.response );","    self.emit( 'success', self.response );","","    // Call the primary callback","    self.callback( null, self.response );","","    // Clear out objects","    // self._events = null;","","    // Unset Callback","    self.callback = function Placeholder() {};","","  }});","","  Auto.each( keys, function ( key ) {","","    // Get Task Object","    var task = ( tasks[key] instanceof Function ) ? [tasks[key]]: tasks[key];","","    // Step is Complete","    var taskCallback = function taskCallback( error ) {","      // Get response arguments","      var args = Array.prototype.slice.call( arguments, 1) ;","","      if (args.length &lt;= 1) {","        args = args[0];","      }","","      if( error &amp;&amp; error instanceof Error ) {","        var safeResults = {};","","        Auto.each( Object.keys( self.response ), function( rkey ) {","          safeResults[rkey] = self.response[rkey];","        });","","        safeResults[key] = args;","","        // Emit task evnet and complete event","        self.emit( 'error', error, safeResults );","        self.emit( 'complete', error, safeResults );","","        // Trigger callback","        self.callback( error, safeResults );","","        // stop subsequent errors hitting callback multiple times","        callback = function __fake_callback__() {","          self.emit( '__fake_callback__' );","        };","","      } else {","","        // Save task response to general response","        self.response[key] = args;","","        // process.nextTick( )","        Auto.setImmediate( self.stepComplete.bind( self ), key, args );","","      }","","    };","","    var requires = task.slice( 0, Math.abs( task.length - 1 )) || [];","","    // Ready to Process a Step","    var ready = function ready() {","","      // Identify Dependacncies with some form of magic","      var magic = Auto.reduce( requires, function (a, x) {","        return ( a &amp;&amp; self.response.hasOwnProperty(x));","      }, true ) &amp;&amp; !self.response.hasOwnProperty(key);","","      //","      self.emit( 'ready', key, magic );","","      return magic;","","    };","","    if (ready()) {","      // Trigger Method","","      task[ task.length - 1 ].bind({","        todo: true","      })( taskCallback, self.response, self );","","    } else {","","      // Create a listener to be checked later","      var listener = function listener() {","","        if (ready()) {","          self.removeListener( listener, key );","","          task[task.length - 1].bind({","            todo: true","          })( taskCallback, self.response );","","        }","      }","","      self.addListener( listener, key );","","    }","","  });","","}","","Object.defineProperties( Auto.prototype, {","  removeListener: {","    /**","     * Remove Listener from Queue","     *","     * @method removeListener","     * @param fn","     * @param k","     */","    value: function removeListener( fn, k ) {","      // self.emit( 'removeListener', k );","","      for( var i = 0; i &lt; this.listeners.length; i += 1 ) {","        if( this.listeners[i] === fn ) { this.listeners.splice(i, 1); return; }","      }","","    },","    enumerable: false","  },","  addListener: {","    /**","     * Add Listener to Queue","     *","     * @method addListener","     * @param fn","     * @param k","     */","    value: function addListener(fn, k) {","      // self.emit( 'addListener', k );","      this.listeners.unshift( fn );","    },","    enumerable: false","  },","  stepComplete: {","    /**","     * Single Step Complete","     *","     * @method stepComplete","     * @param k","     * @param args","     */","    value: function stepComplete( k, args ) {","      // self.emit( 'step_complete', k, args );","","      // Get just the methods from each step","      Auto.each( this.listeners.slice(0), function( fn ) {","        fn();","      });","","    }","  }","});","","Object.defineProperties( module.exports = Auto, {","  defaults: {","    value: {","      timeout: 5000","    },","    enumerable: true,","    writable: true,","    configurable: false","  },","  emitter: {","    value: require( 'object-emitter' ),","    enumerable: false","  },","  setImmediate: {","    value: function setImmediate( fn ) {","","      if( process &amp;&amp; process.nextTick ) {","        return process.nextTick( fn );","      }","","      setTimeout( function() { fn() }, 0 )","","    },","    enumerable: false","  },","  each: {","    value: function each(arr, iterator) {","      if (arr.forEach) { return arr.forEach(iterator); }","      for (var i = 0; i &lt; arr.length; i += 1) { iterator(arr[i], i, arr); }","    },","    writable: true","  },","  reduce: {","    value: function reduce(arr, iterator, memo) {","      if (arr.reduce) { return arr.reduce(iterator, memo); }","      Auto.each(arr, function (x, i, a) { memo = iterator(memo, x, i, a); });","      return memo;","    },","    writable: true","  },","  extend: {","    value: require( 'extend' ),","    enumerable: false","  },","  active: {","    value: {},","    enumerable: true,","    writable: true,","    configurable: false","  },","});"];
+}), writable: false, enumerable: false, configurable: true}, addListener: {value: (function addListener(fn, k) {
+  _$jscoverage['auto.js'][308]++;
+  this.listeners.unshift(fn.bind(this));
+}), writable: false, enumerable: false, configurable: true}, stepComplete: {value: (function stepComplete(k, args) {
+  _$jscoverage['auto.js'][326]++;
+  this.each(this.listeners.slice(0), (function (fn) {
+  _$jscoverage['auto.js'][327]++;
+  fn();
+}));
+}), writable: false, enumerable: false, configurable: true}});
+_$jscoverage['auto.js'][341]++;
+Object.defineProperties(module.exports = auto, {middleware: {value: (function middleware(tasks, callback, settings) {
+  _$jscoverage['auto.js'][352]++;
+  return (function middleware(req, res, next) {
+  _$jscoverage['auto.js'][354]++;
+  var instance = auto(tasks, callback, settings);
+  _$jscoverage['auto.js'][356]++;
+  instance.on("success", (function complete(report) {
+  _$jscoverage['auto.js'][357]++;
+  res.send(report);
+}));
+  _$jscoverage['auto.js'][360]++;
+  instance.on("error", (function error(error, report) {
+  _$jscoverage['auto.js'][361]++;
+  next(error);
+}));
+});
+}), enumerable: true, writable: true, configurable: false}, defaults: {value: {timeout: 5000}, enumerable: true, writable: true, configurable: false}, emitter: {value: require("object-emitter"), writable: true, enumerable: false}, extend: {value: require("extend"), enumerable: false, writable: true}, active: {value: {}, enumerable: true, configurable: false, writable: true}});
+_$jscoverage['auto.js'].source = ["/**"," * auto Module"," *"," * -"," *"," * @module auto"," * @constructor"," * @author potanin@UD"," * @date 8/5/13"," * @type {Object}"," */","function auto( tasks, callback, settings ) {","","  // Ensure always using new instance of auto","  if( !( this instanceof auto ) ) {","","    if( arguments.length === 0 ) {","      return {};","    }","","    if( arguments.length === 1 ) {","      return new auto( tasks );","    }","","    if( arguments.length === 2 ) {","      return new auto( tasks, callback );","    }","","    if( arguments.length === 3 ) {","      return new auto( tasks, callback, settings );","    }","","  }","","  // Set private properties","  var self        = this;","","  // Set instance properties","  this.id         = Math.random().toString( 36 ).substring( 7 );","  this.tasks      = tasks;","  this.callback   = arguments[1] instanceof Function ? arguments[1] : function defaultCallback() {};","  this.settings   = auto.extend( {}, auto.defaults, arguments.length === 3 ? settings : 'function' !== typeof callback ? callback : {} );","  this.response   = {};","  this.listeners  = [];","  this._meta      = { started: new Date().getTime(), timeout: new Date().getTime() + this.settings.timeout };","  this.error      = null;","  this.keys       = Object.keys( this.tasks );","","  // Extend this with Event Emitter","  auto.emitter.mixin( this );","","  // Ensure there are tasks","  if( !this.keys.length ) {","    return callback( null );","  }","","  // Add to running queue","  auto.active[ this.id ] = this;","","  // Add final listener","  self.addListener( this.onComplete );","","  // Iterate through keys","  self.each( this.keys, this.taskIterator );","","  return this;","","}","","/**"," * Instance Properties."," *"," */","Object.defineProperties( auto.prototype, {","  taskIterator: {","    value: function taskIterator( key ) {","","      var self      = this;","      var task      = this.tasks[key] instanceof Function ? [ this.tasks[key] ] : this.tasks[key];","      var requires  = task.slice( 0, Math.abs( task.length - 1 )) || [];","","      // Task Step Context","      var context = {","        id: self.id,","        task: key,","        requires: requires,","        response: self.response,","        tasks: self.tasks","      }","","      /**","       * Task Callback","       *","       * @todo Migrate into prototype.","       * @param error","       */","      function taskCallback( error ) {","","        // Get response arguments","        var args = Array.prototype.slice.call( arguments, 1) ;","","        if (args.length &lt;= 1) {","          args = args[0];","        }","","        if( error &amp;&amp; error instanceof Error ) {","          var safeResults = {};","","          auto.each( Object.keys( self.response ), function( rkey ) {","            safeResults[rkey] = self.response[rkey];","          });","","          safeResults[key] = args;","","          // Emit task evnet and complete event","          self.emit( 'error', error, safeResults );","          self.emit( 'complete', error, safeResults );","","          // Remove from active queue","          delete auto.active[ this.id ];","","          // Trigger callback","          self.callback( error, safeResults );","","          // stop subsequent errors hitting callback multiple times","          self.callback = function __fake_callback__() {};","","        } else {","","          // Save task response to general response","          self.response[key] = args;","","          // process.nextTick( )","          self.setImmediate( self.stepComplete.bind( self ), key, args );","","        }","","      };","","      /**","       * Ready to Process a Step","       *","       * @todo Migrate into prototype.","       * @returns {*|boolean}","       */","      function ready() {","","        // Identify Dependacncies with some form of magic","        var magic = self.reduce( requires, function( a, x ) {","          return ( a &amp;&amp; self.response.hasOwnProperty( x ));","        }, true ) &amp;&amp; !self.response.hasOwnProperty( key );","","        // Step Ready","        self.emit( 'ready', key, magic );","","        return magic;","","      };","","      // Trigger Method","      if( ready() ) {","","        task[ task.length - 1 ].bind( context )( taskCallback, self.response, self );","","      } else {","","        // Create a listener to be checked later","        self.addListener( function listener() {","","          if( ready() ) {","            self.removeListener( listener, key );","            task[ task.length - 1 ].bind( context )( taskCallback, self.response );","          }","","        }, key );","","      }","","    },","    writable: false,","    enumerable: false,","    configurable: true","  },","  onComplete: {","    value: function onComplete() {","","      if( Object.keys( this.response ).length !== this.keys.length ) {","        return;","      }","","      // Will fire multiple times if not checked","      if( this.callback.name === 'Placeholder' ) {","        return;","      }","","      // All steps in task are complete","      this.emit( 'complete', null, this.response );","      this.emit( 'success', this.response );","","      // Call the primary callback","      this.callback( null, this.response );","","      // Remove from active queue","      delete auto.active[ this.id ];","","      // Unset Callback","      this.callback = function Placeholder() {};","","    },","    writable: false,","    enumerable: false,","    configurable: true","  },","  removeListener: {","    /**","     * Remove Listener from Queue","     *","     * @method removeListener","     * @param fn","     * @param k","     */","    value: function removeListener( fn, k ) {","      // self.emit( 'removeListener', k );","","      for( var i = 0; i &lt; this.listeners.length; i += 1 ) {","        if( this.listeners[i] === fn ) { this.listeners.splice(i, 1); return; }","      }","","    },","    writable: false,","    enumerable: false,","    configurable: true","  },","  setImmediate: {","    /**","     * Run Method on next tick","     *","     * @method setImmediate","     * @param fn","     * @returns {*}","     */","    value: function setImmediate( fn ) {","","      if( process &amp;&amp; process.nextTick ) {","        return process.nextTick( fn );","      }","","      setTimeout( function() { fn() }, 0 )","","    },","    writable: false,","    enumerable: false,","    configurable: true","  },","  each: {","    /**","     * Array Iterator","     *","     * @method each","     * @param arr","     * @param iterator","     * @returns {*}","     */","    value: function each( arr, iterator ) {","      if (arr.forEach) { return arr.forEach( iterator.bind( this ) ); }","      for (var i = 0; i &lt; arr.length; i += 1) { iterator.bind( this )(arr[i], i, arr); }","    },","    writable: false,","    enumerable: false,","    configurable: true","  },","  reduce: {","    /**","     * Array Reduce","     *","     * @method reduce","     * @param arr","     * @param iterator","     * @param memo","     * @returns {*}","     */","    value: function reduce( arr, iterator, memo ) {","","      if( arr.reduce) {","        return arr.reduce( iterator , memo);","      }","","      this.each( arr, function (x, i, a) {","        memo = iterator(memo, x, i, a);","      });","","      return memo;","    },","    writable: false,","    enumerable: false,","    configurable: true","  },","  addListener: {","    /**","     * Add Listener to Queue in context","     *","     * @method addListener","     * @param fn","     * @param k","     */","    value: function addListener( fn , k) {","      // self.emit( 'addListener', k );","      this.listeners.unshift( fn.bind( this ) );","    },","    writable: false,","    enumerable: false,","    configurable: true","  },","  stepComplete: {","    /**","     * Single Step Complete","     *","     * @method stepComplete","     * @param k","     * @param args","     */","    value: function stepComplete( k, args ) {","      // self.emit( 'step_complete', k, args );","","      // Get just the methods from each step","      this.each( this.listeners.slice(0), function( fn ) {","        fn();","      });","","    },","    writable: false,","    enumerable: false,","    configurable: true","  }","});","","/**"," * Constructor Properties"," *"," */","Object.defineProperties( module.exports = auto, {","  middleware: {","    /**","     *","     * @param tasks","     * @param callback","     * @param settings","     * @returns {Function}","     */","    value: function middleware( tasks, callback, settings ) {","","      return function middleware( req, res, next ) {","","        var instance = auto( tasks, callback, settings );","","        instance.on( 'success', function complete( report ) {","          res.send( report );","        });","","        instance.on( 'error', function error( error, report ) {","          next( error );","        });","","      }","","    },","    enumerable: true,","    writable: true,","    configurable: false","  },","  defaults: {","    value: {","      timeout: 5000","    },","    enumerable: true,","    writable: true,","    configurable: false","  },","  emitter: {","    value: require( 'object-emitter' ),","    writable: true,","    enumerable: false","  },","  extend: {","    value: require( 'extend' ),","    enumerable: false,","    writable: true","  },","  active: {","    value: {},","    enumerable: true,","    configurable: false,","    writable: true","  },","});"];

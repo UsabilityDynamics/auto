@@ -12,10 +12,12 @@ module.exports = {
   'Auto "basic" example': {
 
     /**
-     * -
      *
      */
-    'wip': function() {}
+    'successfully triggeres "complete" event.': function( done ) {
+      var example = require( '../examples/basic' );
+      example.on( 'complete', done );
+    }
 
   }
 

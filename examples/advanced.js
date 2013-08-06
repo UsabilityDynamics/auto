@@ -7,7 +7,6 @@
 
 var auto          = require( '../' );
 var colors        = require( 'colors' );
-var _createCard   = require( 'faker' ).Helpers.createCard;
 
 // Example mocking https://github.com/caolan/async#auto
 module.exports = auto({
@@ -17,9 +16,13 @@ module.exports = auto({
     console.log( 'get_data'.green );
 
     setTimeout( function() {
-
-      next( null, _createCard() );
-
+      next( null, {
+        name: 'Eric Flatley',
+        username: 'Arnoldo_Lubowitz',
+        email: 'Tyshawn@emie.biz',
+        phone: '917.531.3079 x06115',
+        website: 'donald.io'
+      });
     }, 1000 )
 
   }],

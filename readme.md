@@ -38,12 +38,41 @@ Basic usage example.
   }).once( 'complete', console.log )
 ```
 
+### Express Middleware Usage
+The auto task runner may be used as a middleware method.
+
+```javascript
+  app.get( '/test/:id', auto.middleware( tasks );
+```
+
+See the "express" example in the examples directory.
+
 ## Task Runner Events
 Advanced usage example.
 
  - complete: Gets triggered when all steps are complete or an error is thrown.
  - error: Gets triggered when an error is thrown and the task queue is stopped.
  - success: Gets triggered on successful completion.
+
+## Task Runner Properties
+Each instance has the following properties.
+
+ - id: Random ID generated for each instance.
+ - error: Contains error object if error thrown.
+ - tasks: Contains object with tasks.
+ - callback: Reference to callback method, if provided.
+ - settings: Settings object for instance.
+ - response: Response object.
+ - _meta: Runtime meta, such as timestamp for when started.
+ - _events: ObjectEmitter (EventEmitter2-esque) object of listeners.
+
+## Task Step Context Properties
+Each step is executed within a context with the following properties:
+
+ - task: Name of the current task.
+ - requires: Array of required steps for this step to execute.
+ - id: Reference to the instance ID.
+ - tasks: Reference to the tasks object.
 
 ## License
 
