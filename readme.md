@@ -5,37 +5,37 @@ Beta version - use at own risk.
 Basic usage example.
 
 ```javascript
-    auto({
+  auto({
 
-      // Get data, simulation as asynchornous operation
-      get_data: [ function get_data( next, report ) {
+    // Get data, simulation as asynchornous operation
+    get_data: [ function get_data( next, report ) {
 
-        next( null, {
-          name: 'Eric Flatley',
-          username: 'Arnoldo_Lubowitz',
-          email: 'Tyshawn@emie.biz',
-          phone: '917.531.3079 x06115',
-          website: 'donald.io'
-        });
+      next( null, {
+        name: 'Eric Flatley',
+        username: 'Arnoldo_Lubowitz',
+        email: 'Tyshawn@emie.biz',
+        phone: '917.531.3079 x06115',
+        website: 'donald.io'
+      });
 
-      }],
+    }],
 
-      // Create folder, which is an asynchronous operation
-      make_folder: [ 'get_data', function make_folder( next, report ) {
-        setTimeout( function() { next( null, 'folder created' ); }, 100 )
-      }],
+    // Create folder, which is an asynchronous operation
+    make_folder: [ 'get_data', function make_folder( next, report ) {
+      setTimeout( function() { next( null, 'folder created' ); }, 100 )
+    }],
 
-      // Write file once we have the data and folder is created
-      write_file: ['get_data', 'make_folder', function write_file( next, report ) {
-        setTimeout( function() { next( null, 'folder created' ); }, 200 )
-      }],
+    // Write file once we have the data and folder is created
+    write_file: ['get_data', 'make_folder', function write_file( next, report ) {
+      setTimeout( function() { next( null, 'folder created' ); }, 200 )
+    }],
 
-      // Email Link once file is written
-      email_link: ['write_file', function email_link( next, report ) {
-        next( null, 'email sent' );
-      }]
+    // Email Link once file is written
+    email_link: ['write_file', function email_link( next, report ) {
+      next( null, 'email sent' );
+    }]
 
-    }).once( 'complete', console.log )
+  }).once( 'complete', console.log )
 ```
 
 ## Task Runner Events
