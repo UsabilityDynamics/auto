@@ -12,7 +12,7 @@ var app       = express();
 
 app.configure( function configure() {
 
-  this.use( express.bodyParser() );
+  this.use( express.json() );
   this.use( this.router );
   this.use( express.errorHandler() );
 
