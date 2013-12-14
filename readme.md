@@ -60,6 +60,8 @@ Each instance has the following properties.
  - id: Random ID generated for each instance.
  - error: Contains error object if error thrown.
  - tasks: Contains object with tasks.
+ - get: Request getter.
+ - set: Custom response setter.
  - callback: Reference to callback method, if provided.
  - settings: Settings object for instance.
  - response: Response object.
